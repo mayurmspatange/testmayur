@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Documents"
+		},
+		{
+			"path": "../../Downloads"
+		},
+		{
+			"path": "../../Movies"
+		},
+		{
+			"path": "../../Music"
+		},
+		{
+			"path": "../../Pictures"
+		},
+		{
+			"path": "../../Public"
+		},
+		{
+			"path": "../../SophosInstall"
+		}
+	]
+}
